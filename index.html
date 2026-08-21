@@ -90,6 +90,7 @@
       ,{id:'baskin-robbins',merchant:'Baskin-Robbins',reward:'Birthday scoop or coupon to verify',timing:'week',window:'Verify local program',need:'Loyalty account or birthday email; participating branch required',status:'Verify first; Canadian availability varies',emailQuery:'subject:(birthday) Baskin-Robbins'}
       ,{id:'burgers-priest',merchant:"Burger's Priest",reward:'Birthday reward to verify',timing:'week',window:'Verify account reward',need:'Check current loyalty/email offer before visiting',status:'Conditional; no guaranteed free item assumed',emailQuery:'subject:(birthday) "Burger"'}
       ,{id:'chick-fil-a',merchant:'Chick-fil-A',reward:'Birthday reward to verify',timing:'week',window:'Verify location and account',need:'Chick-fil-A One account; participating location and active reward required',status:'Not-local/verify; do not assume Canadian participation',emailQuery:'subject:(birthday) Chick-fil-A'}
+      ,{id:'opa-greece',merchant:'OPA! of Greece',reward:'Birthday offer to verify',timing:'week',window:'Verify account-dependent reward',need:'Check the current OPA! loyalty/account offer and eligibility before ordering',status:'Verify first; 2026 reward and expiry are not confirmed',mapsQuery:'OPA! of Greece',emailQuery:'subject:(birthday) OPA Greece'}
     ];
     const key='gideon-birthday-hq-v1';let memoryState={done:[],notes:[]};
     const cookieValue=()=>{const hit=document.cookie.split('; ').find(x=>x.startsWith(key+'='));return hit?decodeURIComponent(hit.slice(key.length+1)):null};
