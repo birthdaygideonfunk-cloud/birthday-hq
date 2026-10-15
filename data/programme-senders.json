@@ -1,0 +1,339 @@
+{
+  "meta": {
+    "generated": "2026-10-15",
+    "source": "Gmail research pass on birthdaygideonfunk@gmail.com (2026-10-14) + roundup research (2026-10-14)",
+    "account_birthday": "1989-08-21",
+    "claim_window": "mid-August through mid-September (automation date-guarded 15 Aug - 20 Sep)",
+    "policy": "Stay subscribed to programmes that still run birthday freebies. Never delete/unsubscribe confirmed or plausible programme senders. Delete only clearly non-freebie promotional mail; when in doubt, keep.",
+    "user_approved_all_candidates": "2026-10-15 \u2014 Gideon said yes to all 10 new candidates + 3 BC bonuses",
+    "label_stats": {
+      "freebie_conversations_labeled": 10399,
+      "non_freebie_trashed": 10,
+      "signup_conversations_labeled": 32
+    }
+  },
+  "confirmed_programmes": [
+    {
+      "brand": "Nothing Bundt Cakes",
+      "domain": "e.nothingbundtcakes.com"
+    },
+    {
+      "brand": "DAVIDsTEA",
+      "domain": "davidstea.com"
+    },
+    {
+      "brand": "Mandarin Restaurants",
+      "domain": "e1.mandarinrestaurant.com"
+    },
+    {
+      "brand": "Old Navy",
+      "domain": "email.oldnavy.com"
+    },
+    {
+      "brand": "Old Navy",
+      "domain": "email.oldnavy.ca"
+    },
+    {
+      "brand": "Lanc\u00f4me Canada",
+      "domain": "mail.lancome.ca"
+    },
+    {
+      "brand": "Red Lobster",
+      "domain": "marketing.redlobster.com"
+    },
+    {
+      "brand": "Indigo",
+      "domain": "mail.indigo.ca"
+    },
+    {
+      "brand": "Starbucks",
+      "domain": "m.starbucks.com"
+    },
+    {
+      "brand": "Panera Bread",
+      "domain": "m1.panerabread.com"
+    },
+    {
+      "brand": "Qdoba",
+      "domain": "email.qdoba.com"
+    },
+    {
+      "brand": "Medieval Times",
+      "domain": "offers.medievaltimes.com"
+    },
+    {
+      "brand": null,
+      "domain": "e.dsw.ca"
+    },
+    {
+      "brand": null,
+      "domain": "mail.kiehls.ca"
+    },
+    {
+      "brand": null,
+      "domain": "e.benihana.com"
+    },
+    {
+      "brand": null,
+      "domain": "em.ae.com"
+    },
+    {
+      "brand": "Chipotle",
+      "domain": "email.chipotle.com"
+    },
+    {
+      "brand": null,
+      "domain": "email.tartecosmetics.com"
+    },
+    {
+      "brand": "Krispy Kreme",
+      "domain": "em.krispykreme.com"
+    },
+    {
+      "brand": null,
+      "domain": "quiznos.com"
+    },
+    {
+      "brand": null,
+      "domain": "qooway.com"
+    },
+    {
+      "brand": null,
+      "domain": "datacandyapp.com"
+    },
+    {
+      "brand": null,
+      "domain": "virtualnext.com"
+    },
+    {
+      "brand": "Red Robin",
+      "domain": "loyalty.redrobin.com"
+    },
+    {
+      "brand": null,
+      "domain": "barbsfishandchips.com"
+    },
+    {
+      "brand": "Olive Garden",
+      "domain": "e.olivegarden.ca"
+    },
+    {
+      "brand": null,
+      "domain": "themeltingpotclubfondue-email.com"
+    },
+    {
+      "brand": "Denny's",
+      "domain": "email.dennys.ca"
+    },
+    {
+      "brand": "Reitmans",
+      "domain": "e.reitmans.com"
+    },
+    {
+      "brand": null,
+      "domain": "c.pxsmail.com",
+      "note": "multi-brand sender: Pita Pit, Boston Pizza, Noodlebox, Jimmy John's, OPA! of Greece"
+    },
+    {
+      "brand": "P.F. Chang's",
+      "domain": "e.pfchangs.com"
+    },
+    {
+      "brand": "STK Steakhouse",
+      "domain": "e.stksteakhouse.com"
+    },
+    {
+      "brand": null,
+      "domain": "osf.com"
+    },
+    {
+      "brand": "De Dutch",
+      "domain": "dedutch.com"
+    },
+    {
+      "brand": null,
+      "domain": "bounce.datacandy.com"
+    },
+    {
+      "brand": "Subway",
+      "domain": "mktg.subway.com"
+    },
+    {
+      "brand": "BarBurrito",
+      "domain": "givex.com"
+    }
+  ],
+  "plausible_programmes_keep": [
+    {
+      "domain": "em.kfc.ca",
+      "note": "loyalty mail, no explicit birthday mention"
+    },
+    {
+      "domain": "e.yardhouse.com",
+      "note": "loyalty mail, no explicit birthday mention"
+    },
+    {
+      "domain": "bin4burgerlounge",
+      "note": "loyalty mail, no explicit birthday mention"
+    },
+    {
+      "domain": "marybrowns.com",
+      "note": "loyalty mail, no explicit birthday mention"
+    },
+    {
+      "domain": "news.baskinrobbins.ca",
+      "note": "loyalty mail, no explicit birthday mention"
+    },
+    {
+      "domain": "email.ihop.com",
+      "note": "loyalty mail, no explicit birthday mention"
+    },
+    {
+      "domain": "em.aveda.ca",
+      "note": "loyalty mail, no explicit birthday mention"
+    },
+    {
+      "domain": "ldextras.com",
+      "note": "loyalty mail, no explicit birthday mention"
+    },
+    {
+      "domain": "mastermindtoys.com",
+      "note": "loyalty mail, no explicit birthday mention"
+    },
+    {
+      "domain": "promotions.papajohns.com",
+      "note": "loyalty mail, no explicit birthday mention"
+    },
+    {
+      "domain": "mail.petsmart.com",
+      "note": "loyalty mail, no explicit birthday mention"
+    },
+    {
+      "domain": "pizzapizza.ca",
+      "note": "loyalty mail, no explicit birthday mention"
+    },
+    {
+      "domain": "e.rasushi.com",
+      "note": "loyalty mail, no explicit birthday mention"
+    },
+    {
+      "domain": "mc.ebgames.ca",
+      "note": "loyalty mail, no explicit birthday mention"
+    },
+    {
+      "domain": "perkinsrb.fbmta.com",
+      "note": "loyalty mail, no explicit birthday mention"
+    }
+  ],
+  "new_candidates_approved": [
+    {
+      "brand": "7-Eleven",
+      "offer": "Free Slurpee during birthday month",
+      "signup": "7Rewards app",
+      "country": "CA + US",
+      "note": "590+ CA stores; Winnipeg is the Slurpee Capital of the World"
+    },
+    {
+      "brand": "Sephora",
+      "offer": "Free birthday gift in store during birthday month",
+      "signup": "Beauty Insider (sephora.com / app)",
+      "country": "CA + US",
+      "note": "No purchase needed in store; official 2026 announcement"
+    },
+    {
+      "brand": "Tim Hortons",
+      "offer": "Birthday offer in the Tims app",
+      "signup": "Tims app",
+      "country": "CA",
+      "note": "Add birth date at least 7 days ahead; scan at least once in prior 12 months"
+    },
+    {
+      "brand": "White Spot",
+      "offer": "Free birthday dessert",
+      "signup": "None needed",
+      "country": "CA (BC chain)",
+      "note": "Dine in on birthday with ID"
+    },
+    {
+      "brand": "The Keg",
+      "offer": "Free Billy Miner Pie slice on birthday",
+      "signup": "None needed",
+      "country": "CA",
+      "note": "Dine in with a meal; tell server it's your birthday"
+    },
+    {
+      "brand": "Dairy Queen",
+      "offer": "Birthday treat (often free/BOGO Blizzard)",
+      "signup": "DQ app",
+      "country": "CA ex-QC",
+      "note": "Join and add birthday; varies by franchise"
+    },
+    {
+      "brand": "COBS Bread",
+      "offer": "Free birthday cinnamon bun + free scone on half-birthday",
+      "signup": "COBS Club app",
+      "country": "CA",
+      "note": "BC-founded"
+    },
+    {
+      "brand": "Booster Juice",
+      "offer": "Free birthday smoothie",
+      "signup": "Booster Nation",
+      "country": "CA",
+      "note": ""
+    },
+    {
+      "brand": "Marble Slab Creamery",
+      "offer": "Free birthday scoop",
+      "signup": "App",
+      "country": "CA",
+      "note": "Sign up at least 7 days ahead"
+    },
+    {
+      "brand": "Menchie's",
+      "offer": "$5 birthday credit",
+      "signup": "mySmileage app",
+      "country": "CA + US",
+      "note": ""
+    }
+  ],
+  "bc_bonuses_approved": [
+    {
+      "brand": "Blenz Coffee",
+      "offer": "Free regular beverage on birthday with ID",
+      "note": "Not all locations; single-source, verify at signup"
+    },
+    {
+      "brand": "Vera's Burger Shack",
+      "offer": "$10 meal coupon",
+      "signup": "Vera's Club",
+      "note": "Single-source, verify at signup"
+    },
+    {
+      "brand": "Pajo's",
+      "offer": "Free birthday meal",
+      "signup": "Online signup",
+      "note": "Single-source, verify at signup"
+    }
+  ],
+  "approved_non_freebie_delete": [
+    {
+      "domain": "manus.im",
+      "note": "AI product marketing; no birthday programme connection"
+    }
+  ],
+  "ambiguous_never_touch": [
+    {
+      "domain": "openai.com"
+    },
+    {
+      "domain": "otter.ai"
+    },
+    {
+      "domain": "google.com"
+    },
+    {
+      "domain": "saharalasvegas.com"
+    }
+  ]
+}
